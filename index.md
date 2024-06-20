@@ -1,6 +1,1 @@
-# aiueo
-## ie-i
-### miteru?
-#### tittyaine
-##### midura
-###### usukune?
+# ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
